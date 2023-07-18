@@ -28,6 +28,7 @@ export function History() {
           </Heading>
         )}
         px={8}
+        showsVerticalScrollIndicator={false}
       />
     </VStack>
   );
