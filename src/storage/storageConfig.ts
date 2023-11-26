@@ -1,0 +1,3 @@
+const USER_STORAGE = '@GYM:USER';
+
+export {USER_STORAGE}
